@@ -1,0 +1,6 @@
+*********** Order List (2022_01_21) ***********
+Order ID:   1  StaffName:samruddhi deore                 Total:$18.90 
+Order ID:   2  StaffName:samruddhi deore                 Total:$12.95 Canceled
+Order ID:   3  StaffName:samruddhi deore                 Total:$37.00 
+-------------------------------------------------------
+Total sales:$55.9(2)  Canceled:$12.95(1)
